@@ -7,3 +7,5 @@
    Creating a new branch is quick AND simple.
 >>>>>>> feature1
 -----merge ,--no--ff
+
+fix bug..
